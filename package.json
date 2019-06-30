@@ -1,0 +1,26 @@
+{
+  "name": "bizz2creddit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "varun <varunchawla24@gmail.com> (https://github.com/varunchawla24/biz2creditAsignment)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunchawla24/biz2creditAsignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varunchawla24/biz2creditAsignment/issues"
+  },
+  "homepage": "https://github.com/varunchawla24/biz2creditAsignment#readme",
+  "description": ""
+}
